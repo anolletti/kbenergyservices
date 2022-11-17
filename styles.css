@@ -124,9 +124,9 @@ body {
 }
 
 .testimonial-image {
-  width: 10%;
+  width: 12%;
   border-radius: 100%;
-  padding: 10px;
+  padding: 5px;
 }
 
 .call-to-action {
@@ -140,5 +140,23 @@ body {
   .call-to-action {
     font-size: 2rem;
     padding: 2%;
+  }
+}
+
+#phone-icon {
+  display: none;
+  font-size: 1.8rem;
+  position: fixed;
+  margin: 20px;
+  bottom: 0;
+  right: 0;
+  z-index: 100;
+  color: white;
+  background-color: black;
+}
+
+@media (max-width: 1199.98px) {
+  #phone-icon {
+    display: block;
   }
 }
