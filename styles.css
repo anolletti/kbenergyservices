@@ -145,9 +145,9 @@ body {
 
 #phone-icon {
   display: none;
-  font-size: 1.8rem;
+  font-size: 2.2rem;
   position: fixed;
-  margin: 20px;
+  margin: 30px;
   bottom: 0;
   right: 0;
   z-index: 100;
