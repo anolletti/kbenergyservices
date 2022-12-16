@@ -47,7 +47,7 @@ body {
 /* Navigation Bar */
 
 .navbar {
-  padding: 10%;
+  padding: 5%;
 }
 
 .nav-item {
@@ -102,12 +102,6 @@ body {
   text-align: center;
 }
 
-.container2-fluid {
-  padding: 2%;
-  color: white;
-  text-align: center;
-}
-
 .container3-fluid {
   padding: 6% 15%;
   color: white;
@@ -149,7 +143,7 @@ body {
 
 #phone-icon {
   display: none;
-  font-size: 2.2rem;
+  font-size: 3rem;
   position: fixed;
   margin: 30px;
   bottom: 0;
